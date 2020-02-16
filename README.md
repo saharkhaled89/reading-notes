@@ -5,12 +5,9 @@
 | **name**   | *titel*  | link                                                                 
 |------------|----------|------------------------------------------------------------------|
 | read1      |*read 01* |[read01]( https://saharkhaled89.github.io/reading-notes/class-01) |   
-<<<<<<< HEAD
 | read2      |*read02*  |[read02](  https://saharkhaled89.github.io/reading-notes/class-02)|                                               
-=======
 | read2      |*read02*  |[read02](  https://saharkhaled89.github.io/reading-notes/class-02)|                                              
 | read2      |*read02*  |[read02](https://saharkhaled89.github.io/reading-notes/class-02)|                                               
->>>>>>> c76e0da34dbf3bbdd7cf80884a6420f06bbbe97f
 | read3      |*read 03* |[read03](  )                                                      |                                               
 | read4      |*read 04* | [read04]()                                                       |   
 | read5      |*read05*  | [read05]()                                                      |   
