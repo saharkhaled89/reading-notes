@@ -17,7 +17,11 @@
 
 **paragraph**
 
+<<<<<<< HEAD
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+=======
+*To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.*
+>>>>>>> 13f49cd74637408142dda5e5e8d9c4be5ad6bc06
 
 **<p> A paragraph consists of one or more sentences   that form a self-contained unit of discourse. The   start of a paragraph is indicated by a new   line.</p>**
 
@@ -28,6 +32,7 @@ To create a paragraph, surround the words that make up the paragraph with an ope
 
 <b>
 
+<<<<<<< HEAD
 **By enclosing words in the tags <b> and </b> we can make characters appear bold.**
 
 **The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning**
@@ -40,6 +45,20 @@ To create a paragraph, surround the words that make up the paragraph with an ope
 **HTML elements are used to describe the structure of  X the page (e.g. headings, subheadings, paragraphs).**
 
 **They also provide semantic information (e.g. where  X emphasis should be placed, the definition of any acronyms used, when given text is a quotation).**
+=======
+By enclosing words in the tags <b> and </b> we can make characters appear bold.
+
+**The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning
+
+<i>
+By enclosing words in the tags <i> and </i> we can make characters appear italic.
+
+The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
+
+**HTML elements are used to describe the structure of  X the page (e.g. headings, subheadings, paragraphs)**
+
+**They also provide semantic information (e.g. where  X emphasis should be placed, the definition of any acronyms used, when given text is a quotation)**
+>>>>>>> 13f49cd74637408142dda5e5e8d9c4be5ad6bc06
 
 ### INTRODUCING CSS
 
@@ -120,13 +139,22 @@ are the same
  * !== strict not equal to: this operator compares two values to check that both the data type and value a
  are not sam
  
+<<<<<<< HEAD
  * > greater than
+=======
+ *  > greater than
+>>>>>>> 13f49cd74637408142dda5e5e8d9c4be5ad6bc06
  * < less than 
  
  # logical operators
  
+<<<<<<< HEAD
  comparision operators usualy return single value of true or false that allow you to compare 
  the result of more  than one comparison operator && 
+=======
+**comparision operators usualy return single value of true or false that allow you to compare 
+ the result of more  than one comparison operator &&**
+>>>>>>> 13f49cd74637408142dda5e5e8d9c4be5ad6bc06
  
  
  USING IF ... ELSE STATEMENTS 
@@ -136,6 +164,7 @@ are the same
  1. one set if the condition evaluates to true 
  
  2. another set if the condition is false in
+<<<<<<< HEAD
 
 
 
@@ -144,3 +173,5 @@ are the same
 
 
 
+=======
+>>>>>>> 13f49cd74637408142dda5e5e8d9c4be5ad6bc06
