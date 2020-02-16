@@ -1,21 +1,21 @@
 # Code 201 Reading Notes
 
-my Repositories include the following reading:
+**my Repositories include the following reading:**
 
-| name       | titel  | link                                                                 
-|------------|--------|------------------------------------------------------------------|
-| read1      |read 01 |[read01]( https://saharkhaled89.github.io/reading-notes/class-01) |   
-| read2      |read 02 |[read02](                                                        )|                                                 
-| read3      |read03  |[read03](  https://saharkhaled89.github.io/reading-notes )        |                                                 
-| read4      |        |   |   
-| read5      |        |   |   
-| read6      |        |   |   
-| read7      |        |   |   
-| read8      |        |   |   
-| read9      |        |   |   
-| read10     |        |   |   
-| read11     |        |   |   
-| read12     |        |   |   
-| read13     |        |   |   
-| read14     |        |   |   
-| read15     |        |   |   
+| **name**   | *titel*  | link                                                                 
+|------------|----------|------------------------------------------------------------------|
+| read1      |*read 01* |[read01]( https://saharkhaled89.github.io/reading-notes/class-01) |   
+| read2      |*read02*  |[read02](                                                        )|                                               
+| read3      |*read 03* |[read03](  )                                                      |                                               
+| read4      |*read 04* | [read04]()                                                       |   
+| read5      |*read05*  | [read05] ()                                                      |   
+| read6      |*read06*  |[read06]()                                                        |   
+| read7      |*read07*  |[read07]()                                                        |   
+| read8      |*read08*  |[read08]()                                                        |   
+| read9      |*read09*  |[read09]()                                                        |   
+| read10     |*read10*  |[read10]()                                                        |   
+| read11     |*read11*  |[read11]()                                                        |   
+| read12     |*read12*  |[read12]()                                                        |   
+| read13     |*read13*  |[read13]()                                                        |   
+| read14     |*read14*  |[read14]()                                                        |   
+| read15     |*read15*  |[read15]()                                                        |   
