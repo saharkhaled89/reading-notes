@@ -125,8 +125,8 @@ are the same
  
  # logical operators
  
- comparision operators usualy return single value of true or false that allow you to compare 
- the result of more  than one comparison operator && 
+**comparision operators usualy return single value of true or false that allow you to compare 
+ the result of more  than one comparison operator &&**
  
  
  USING IF ... ELSE STATEMENTS 
