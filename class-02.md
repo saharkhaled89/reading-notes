@@ -120,7 +120,7 @@ are the same
  * !== strict not equal to: this operator compares two values to check that both the data type and value a
  are not sam
  
- * > greater than
+ *  > greater than
  * < less than 
  
  # logical operators
