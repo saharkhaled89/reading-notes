@@ -28,18 +28,18 @@
 
 <b>
 
-**By enclosing words in the tags <b> and </b> we can make characters appear bold.**
+By enclosing words in the tags <b> and </b> we can make characters appear bold.
 
-**The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning**
+**The <b> element also represents a section of text that would be presented in a visually different way (for example key words in a paragraph) although the use of the <b> element does not imply any additional meaning
 
 <i>
-*By enclosing words in the tags <i> and </i> we can make characters appear italic.*
+By enclosing words in the tags <i> and </i> we can make characters appear italic.
 
-*The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.*
+The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
 
-**HTML elements are used to describe the structure of  X the page (e.g. headings, subheadings, paragraphs).**
+**HTML elements are used to describe the structure of  X the page (e.g. headings, subheadings, paragraphs)**
 
-**They also provide semantic information (e.g. where  X emphasis should be placed, the definition of any acronyms used, when given text is a quotation).**
+**They also provide semantic information (e.g. where  X emphasis should be placed, the definition of any acronyms used, when given text is a quotation)**
 
 ### INTRODUCING CSS
 
