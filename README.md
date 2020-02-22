@@ -3,17 +3,13 @@
 **my Repositories include the following reading:**
 
 | **name**   | *titel*  | link                                                                 
-|------------|----------|------------------------------------------------------------------|
-| read1      |*read 01* |[read01]( https://saharkhaled89.github.io/reading-notes/class-01)        |   
+|------------|----------|-----------------------------------------------------------------------------------------------|
+| read1      |*read 01* |[read01]( https://saharkhaled89.github.io/reading-notes/class-01)                              |   
 | read2      |*read02*  |[read02](  https://saharkhaled89.github.io/reading-notes/class-02) |                                                                                              
-| read3      |*read 03* |[read03]( https://saharkhaled89.github.io/reading-notes/class-03 )                                                      |                                               
-| read4      |*read 04* | [read04](https://saharkhaled89.github.io/reading-notes/class-04)                                                       |   
-<<<<<<< HEAD
-| read5      |*read05*  | [read05](https://saharkhaled89.github.io/reading-notes/class-05)                                                     |   
-=======
-| read5      |*read05*  | [read05](https://saharkhaled89.github.io/reading-notes/class-05  )                                                      |   
->>>>>>> 66e8d4e3980b798a1cf0f4757d78c44fe829fd2b
-| read6      |*read06*  |[read06]()                                                        |   
+| read3      |*read 03* |[read03]( https://saharkhaled89.github.io/reading-notes/class-03)                               |                                               
+| read4      |*read 04* | [read04](https://saharkhaled89.github.io/reading-notes class-04)                             |   
+| read5      |*read05*  | [read05](https://saharkhaled89.github.io/reading-notes/class-05)                               |   
+| read6      |*read06*  |[read06](https://saharkhaled89.github.io/reading-notes/class-06)                               |   
 | read7      |*read07*  |[read07]()                                                        |   
 | read8      |*read08*  |[read08]()                                                        |   
 | read9      |*read09*  |[read09]()                                                        |   
