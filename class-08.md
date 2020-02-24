@@ -31,7 +31,7 @@ we have normal flow , relative positioning , apsolute positioning , fixed positi
 
 * Pages can be fixed width or liquid (stretchy) layouts. 
 
-*Designers keep pages within 960-1000 pixels wide,and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
+* Designers keep pages within 960-1000 pixels wide,and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 
 * Grids help create professional and flexible designs. 
 
