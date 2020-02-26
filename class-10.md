@@ -22,38 +22,38 @@
 
  * FUNCTION-LEVEL SCOPE 
 
- # THE STACK
+ **THE STACK**
 
  **the javascript interpreter processes one line of code at atime.**
 
  *When astatement needs data from another function it stacks the new function on top of the current task.*
 
- # EXECUTION CONTEXT & HOISTING 
+ **EXECUTION CONTEXT & HOISTING**
 
  **Each time a script enters a new execution context, there are two phases of activity:**
 
  1: PREPARE 
  2: EXECUTE 
 
- # UNDERSTANDING SCOPE
+ **UNDERSTANDING SCOPE**
 
   *In the interpreter, each execution context has its own va ri ables object. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's variables object*
 
-  # UNDERSTANDING ERRORS 
+  **UNDERSTANDING ERRORS** 
 
   **If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code.**
 
-  # ERROR OBJECTS 
+  **ERROR OBJECTS** 
 
   *Error objects can help you find where your mistakes are and browsers have tools to help you read them*
 
- # ERROR OBJECTS CONTI NUED 
+ *ERROR OBJECTS CONTI NUED*
 
  **Syntax Error SYNTAX IS NOT CORRECT This is caused by incorrect use of the rules of the language. It is often the result of a simple typo: SyntaxError: Unexpect ed EOF ,SyntaxError: Expected token ' ) ' ,SyntaxError: Expected token ']'**
 
- # A DEBUGGING WORKFLOW 
+ **A DEBUGGING WORKFLOW**
 
- # Debugging is about deduction: eliminating potential causes of an error. 
+ **Debugging is about deduction: eliminating potential causes of an error.** 
 
 **WHERE IS THE PROBLEM?** 
 **First, should try to can narrow down the area where the problem seems to be. In a long script, this is especially important.**
