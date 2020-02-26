@@ -53,7 +53,7 @@
 
  # A DEBUGGING WORKFLOW 
 
- ## Debugging is about deduction: eliminating potential causes of an error. 
+ # Debugging is about deduction: eliminating potential causes of an error. 
 
 **WHERE IS THE PROBLEM?** 
 **First, should try to can narrow down the area where the problem seems to be. In a long script, this is especially important.**
