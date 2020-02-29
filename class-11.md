@@ -18,7 +18,7 @@
 
  * On the image itself, you can use the use the margin property and set the values of the left and right margins to auto.
 
- **The background-image property allows you to place an image behind any HTMl** **element. This could be the entire page or just part of the page. By default****,a background image will repeat to fill the entire box.**
+ **The background-image property allows you to place an image behind any HTMl element This could be the entire page or just part of the page.**
 
 
 # RepeatIng Images background-repeat background-attachment
