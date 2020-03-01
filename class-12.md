@@ -20,50 +20,6 @@ The first thing we need to do is download Chart.js. Copy the Chart.min.js out of
 
  
 
-**Drawing a line chart**
-
-**To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:**
-
-<canvas id="buyers" width="600" height="400"></canvas>
-
-Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element:
-
-<script>
-    var buyers = document.getElementById('buyers').getContext('2d');
-    new Chart(buyers).Line(buyerData);
-</script>
-(We can actually pass some options to the chart via the Line method, but we’re going to stick to the data for now to keep it simple.)
-
-Inside the same script tags we need to create our data, in this instance it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart. Add this immediately above the line that begins ‘var buyers=’:
-
-var buyerData = {
-	labels : ["January","February","March","April","May","June"],
-	datasets : [
-		{
-			fillColor : "rgba(172,194,132,0.4)",
-			strokeColor : "#ACC26D",
-			pointColor : "#fff",
-			pointStrokeColor : "#9DB86D",
-			data : [203,156,99,251,305,247]
-		}
-	]
-}
-If you test your file in a browser you’ll now see a cool animated line graph.
-
- 
-
-Drawing a pie chart
-Our line chart is complete, so let’s move on to our pie chart. First, we need the canvas element:
-
-<canvas id="countries" width="600" height="400"></canvas>
-Next, we need to get the context and to instantiate the chart:
-
-var countries= document.getElementById("countries").getContext("2d");
-new Chart(countries).Pie(pieData, pieOptions);
-You’ll notice that this time, we are going to supply some options to the chart.
-
-The great things about Chart.js are that it’s simple to use and really very flexible. Plus, once you’ve mastered the basics here, you’ll discover that there are tons of options listed in the documentation.
-
 # The <canvas> element
 
 **At first sight a <canvas> looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <canvas> element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.**
