@@ -15,7 +15,7 @@
 | read9      |*read09*  |[read09](https://saharkhaled89.github.io/reading-notes/class-09)                                |   
 | read10     |*read10*  |[read10](https://saharkhaled89.github.io/reading-notes/class-10)                                |   
 | read11     |*read11*  |[read11](https://saharkhaled89.github.io/reading-notes/class-11)                                |   
-| read12     |*read12*  |[read12]()                                                        |   
+| read12     |*read12*  |[read12](https://saharkhaled89.github.io/reading-notes/class-12)                               |   
 | read13     |*read13*  |[read13]()                                                        |   
 | read14     |*read14*  |[read14]()                                                        |   
 | read15     |*read15*  |[read15]()                                                        |   
